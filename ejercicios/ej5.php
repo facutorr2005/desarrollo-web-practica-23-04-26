@@ -1,0 +1,4 @@
+<?php
+
+$carpeta = "archivos/nuevodirectorio";
+
